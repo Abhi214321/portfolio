@@ -1,1 +1,2 @@
 # portfolio
+This is an HTML and CSS project which is a responsive portfolio. It is used to showcase our achievements and advertise our work in an attractive manner. From this you can contact the designer through the telegram. if you need to try this then create a telegram bot and then replace the token and chat id in the code with your own bots token and chat id. now as per the code the info u fill and submit will be sent to me
